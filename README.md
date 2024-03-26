@@ -9,8 +9,8 @@ This set of APIs l is free..
 
 
 -----
-| Id |Description | Websit |Json|
-|:---|   :---:     |  ---:  |---:|
-|  1 |   Description    | Websit     | Json |
+| Id |                                             Description                                                         | Websit |
+|:---|                                             :---:                                                               |  ---:  |
+|  1 |   The following endpoints are supported by the Quran API. They all support the HTTP GET method and return JSON. | [alquran](https://alquran.cloud/api)     | 
 
 
